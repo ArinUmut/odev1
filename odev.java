@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class odev
 {
     public void main {
