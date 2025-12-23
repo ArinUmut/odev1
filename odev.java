@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class odev
 {
-    public static void main(String[] args) {
+    public void main {
         // iki sayı alcaz başta
         Scanner input = new Scanner(System.in);
         System.out.print("birinci sayıyı giriniz: ");
